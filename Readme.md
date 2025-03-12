@@ -15,6 +15,21 @@ Skilled in Python, SQL, Power BI, and Advanced Excel, I help organizations make 
 - Exploring new opportunities where data can create impact.
 - Chatting about AI, business intelligence, or even your favorite tech trends!
 
+This is a repository to showcase my skills and also share the topics of project i have done as well as the link to the projects repositories
+
+
+# Table of Contents
+- About
+- Portfolio Projects
+- Education
+- Certificate
+- Contact
+
+  **Portfolio Projects**
+  
+  In this section I will list the topics of data analytics projects briefly
+  
+
 # Education
 **Bachelor of Arts in Economics and Mathematics**
 
