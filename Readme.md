@@ -1,3 +1,16 @@
+# Table of Contents
+- About
+- Portfolio Projects
+- Education
+- Certificate
+- Contact
+
+
+
+
+
+
+
 **🚀 DATA MEETS INSIGHTS—LET'S MAKE SENSE OF IT TOGETHER!**
 
 Hi, I’m Ebenezer Asiedu, a Data Analyst who loves turning numbers into stories and raw data into smart decisions.
@@ -18,19 +31,16 @@ Skilled in Python, SQL, Power BI, and Advanced Excel, I help organizations make 
 This is a repository to showcase my skills and also share the topics of project i have done as well as the link to the projects repositories
 
 
-# Table of Contents
-- About
-- Portfolio Projects
-- Education
-- Certificate
-- Contact
 
+
+ 
+  
   **Portfolio Projects**
   
   In this section I will list the topics of data analytics projects briefly
 
   - SQL Sales Data Analysis :  https://github.com/Ebenezer362/Sales-Data-Analysis
-  - 
+  - Supermarket sales Analysis with Power BI : https://github.com/Ebenezer362/Supermarket-Sales-Analysis
 
 # Education
 **Bachelor of Arts in Economics and Mathematics**
