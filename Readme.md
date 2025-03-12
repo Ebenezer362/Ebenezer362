@@ -28,7 +28,9 @@ This is a repository to showcase my skills and also share the topics of project 
   **Portfolio Projects**
   
   In this section I will list the topics of data analytics projects briefly
-  
+
+  - SQL Sales Data Analysis :  https://github.com/Ebenezer362/Sales-Data-Analysis
+  - 
 
 # Education
 **Bachelor of Arts in Economics and Mathematics**
