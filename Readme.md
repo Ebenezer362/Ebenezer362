@@ -47,9 +47,12 @@ I also leverage on advanced techniques to predict future trends.
 
 **Dashboard**
 
-I turn raw data into art—but instead of brushes, I wield **Excel** and **Power BI**. With a knack for crafting intuitive,
-user-friendly dashboards, I deliver real-time insights that drive smart business decisions. 
-Think of me as the data whisperer, making complex information speak your language—visually and effectively.
+I turn raw data into art but instead of brushes, I wield **Excel** and **Power BI**. With a knack for crafting intuitive,
+user friendly dashboards, I deliver real time insights that drive smart business decisions. 
+Think of me as the data whisperer, making complex information speak your language visually and effectively.
+
+
+
 
 💡 **Always Open To:**
 
