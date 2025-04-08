@@ -74,7 +74,7 @@ Think of me as the data whisperer, making complex information speak your languag
   - SQL Sales Data Analysis :  https://github.com/Ebenezer362/Sales-Data-Analysis
   - Supermarket sales Analysis with Power BI : https://github.com/Ebenezer362/Supermarket-Sales-Analysis
   - Design-thinking-for-Banking-Innovation: https://github.com/Ebenezer362/Design-thinking-for-Banking-Innovation
-  - [Agric Sector of India Analysis](url) : https://github.com/Ebenezer362/Agriculture-sector-of-India-Analysis
+  - Agric Sector of India Analysis : https://github.com/Ebenezer362/Agriculture-sector-of-India-Analysis
 
 # Education
 **Bachelor of Arts in Economics and Mathematics**
