@@ -99,9 +99,18 @@ IiAfrica and ESMT Berlin              2024
 **AI Career Essentials Program**
   
 ALX                   2024
-
-
 - Skills: Data Analysis, Problem Solv-ing with AI tools, AI Essentials
+
+**Data Analytics Essentials**
+
+Cisco Networking Academy April   2025
+
+**Data Analytics Job Simulation**
+
+Deliote                   June 2025
+
+
+
 
 # Contacts
 - LinkdIn : https://tinyurl.com/4a6m3kyh
